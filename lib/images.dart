@@ -1,0 +1,1 @@
+const String deadPool = "assets/images/deadPool.jpeg";
